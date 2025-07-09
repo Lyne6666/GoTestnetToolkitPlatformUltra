@@ -1,2 +1,1 @@
-# GoTestnetToolkitPlatformUltra
-Advanced GoTestnetToolkitPlatformUltra project
+.
